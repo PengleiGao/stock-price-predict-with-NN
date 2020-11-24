@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import torch
 
 
 class subDataset(torch.utils.data.Dataset):
