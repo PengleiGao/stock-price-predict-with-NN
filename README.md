@@ -1,5 +1,5 @@
 # stock-price-predict-with-NN
-This repository is for the artical The Application of Stock Index Price Prediction with Neural Network.
+This repository is for the artical The Application of Stock Index Price Prediction with Neural Network. https://www.mdpi.com/2297-8747/25/3/53/htm
 
 As for LSTM, CNN and MLP, the three models are implemented in PyTorch 1.4.
 And for UA model, it is implemented in Tensorflow 1.13.
