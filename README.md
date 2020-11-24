@@ -6,4 +6,4 @@ And for UA model, it is implemented in Tensorflow 1.13.
 
 Before running the above code, you should change the save path to your own.
 
-To run the model, for example, python stock_lstm -d sp500.  -d means appointing the dataset you want to test.
+To run the model, for example, python stock_lstm.py -d sp500.  -d means appointing the dataset you want to test.
